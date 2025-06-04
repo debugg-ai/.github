@@ -69,10 +69,10 @@ DebuggAI focuses on the other 50 % of an engineer’s life: **getting it to run
 | Feature | Description | Demo |
 |---------|-------------|------|
 | **Text Based Test Requests** | Quickly configure and run new tests on app features using simple english. 'Test my login flow' | ![Easy E2Es](https://static-debugg-ai.s3.us-east-2.amazonaws.com/extension/recordings/text-based-test-design.gif) |
-| **Test Results Suite** | Get sequential and final results directly in Test Results panel | ![Test Results](https://static-debugg-ai.s3.us-east-2.amazonaws.com/extension/recordings/error-in-test-creation.gif) |
-| **Easy Test Tracking** | Use our web app to view previous runs, rerun others, and more! | ![tracking](https://static-debugg-ai.s3.us-east-2.amazonaws.com/extension/recordings/view-e2e-tests-in-web-app.gif) |
-| **Secure Local Tunnels** | Our testers connect directly to your localhost servers to reduce overhead | ![tunnels](https://static-debugg-ai.s3.us-east-2.amazonaws.com/extension/recordings/tunnel-to-local.gif) |
-| **Recording Gif Creation** | Simplify debugging and test review with in IDE recordings after each test | ![actions](https://static-debugg-ai.s3.us-east-2.amazonaws.com/extension/recordings/gif-recording-creation.gif) |
+| **Test Results Suite** | Get sequential and final results directly in Test Results panel | ![Test suites](https://static-debugg-ai.s3.us-east-2.amazonaws.com/extension/recordings/error-in-test-creation.gif) |
+| **Easy Test Tracking** | Use our web app to view previous runs, rerun others, and more! | ![Easy Tracking](https://static-debugg-ai.s3.us-east-2.amazonaws.com/extension/recordings/view-e2e-tests-in-web-app.gif) |
+| **Secure Local Tunnels** | Our testers connect directly to your localhost servers to reduce overhead | ![Secure Tunnels](https://static-debugg-ai.s3.us-east-2.amazonaws.com/extension/recordings/tunnel-to-local.gif) |
+| **Recording Gif Creation** | Simplify debugging and test review with in IDE recordings after each test | ![Recordings](https://static-debugg-ai.s3.us-east-2.amazonaws.com/extension/recordings/gif-recording-creation.gif) |
 
 
 
