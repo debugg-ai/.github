@@ -113,6 +113,8 @@ If you're interested in joining the team or contributing to the project, please 
 ## 📜 License & Credits
 Please see individual repos
 
+Browser Agents trained and deployed w/ [surfs](https://surfs.dev)
+
 ---
 
 <div align="center">
